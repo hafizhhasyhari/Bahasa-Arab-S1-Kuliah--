@@ -1,4 +1,4 @@
-# Kesusastraan Bahasa Arab dalam Manajemen Teknologi Sistem Informasi-S1-Kuliah--
+# Kesusastraan Bahasa Arab dalam Manajemen Teknologi Sistem Informasi 2024--
 Kesusastraan Bahasa Arab dalam Manajemen Teknologi Sistem Informasi by Hafizh H Asyhari
 **Selamat datang di repositori *Kesusastraan Bahasa Arab dalam Manajemen Teknologi Sistem Informasi 2024*! 🎉**  
 **Welcome to the *Kesusastraan Bahasa Arab dalam Manajemen Teknologi Sistem Informasi* repository! 🎉**
